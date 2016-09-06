@@ -1,0 +1,43 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Playa el tunco",
+          "latitude":13.4937661,
+          "longitude":-89.3829463
+        },
+        {
+          "placeId":3,
+          "placeName":"Playa el Sunzal",
+          "latitude":13.4925205,
+          "longitude":-89.4006992
+        },
+        {
+          "placeId":4,
+          "placeName":"Playa el espino",
+          "latitude":13.1698739,
+          "longitude":-88.298876
+        },
+        {
+          "placeId":5,
+          "placeName":"Playa Costa azul",
+          "latitude":13.6506046,
+          "longitude":-89.9401227
+        },
+        {
+          "placeId":6,
+          "placeName":"Playa costa del sol",
+          "latitude":13.3436316,
+          "longitude":-89.0151437
+        },
+        {
+          "placeId":7,
+          "placeName":"Playa el cuco",
+          "latitude":13.1724864,
+          "longitude":-88.1066122
+        }
+    ]
+  }
+}
